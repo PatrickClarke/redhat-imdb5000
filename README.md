@@ -17,3 +17,6 @@
 * pandas
 * sqlite
 * https://www.sqlitetutorial.net/sqlite-python/creating-database/
+* https://www.python.org/downloads/release/python-374/
+* https://git-scm.com/download/win
+* https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset/data

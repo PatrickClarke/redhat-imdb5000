@@ -57,4 +57,4 @@ for k in acols:
 tdf = pd.concat(lst)
 gbs = tdf.groupby('adc').sum()
 profitability = (gbs['gross'] - gbs['budget']) / gbs['budget']
-print(profitability.sort_values(ascending=False).head())
+print(profitability.sort_values(ascending=False).head(10))

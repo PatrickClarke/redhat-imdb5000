@@ -1,5 +1,0 @@
-pandas
-numpy
-psycopg2
-sqlalchemy
-jupyter
